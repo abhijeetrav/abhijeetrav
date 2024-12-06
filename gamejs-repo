@@ -1,0 +1,23 @@
+
+let player = document.getElementById('player');
+
+
+document.addEventListener('keydown', function (event) {
+    const playerStyle = player.style;
+    const playerTop = parseInt(playerStyle.top || 0);
+    const playerLeft = parseInt(playerStyle.left || 0);
+
+
+    if (event.key === 'ArrowUp') {
+        playerStyle.top = `${playerTop - 10}px`;
+    }
+    if (event.key === 'ArrowDown') {
+        playerStyle.top = `${playerTop + 10}px`;
+    }
+    if (event.key === 'ArrowLeft') {
+        playerStyle.left = `${playerLeft - 10}px`;
+    }
+    if (event.key === 'ArrowRight') {
+        playerStyle.left = `${playerLeft + 10}px`;
+    }
+});
