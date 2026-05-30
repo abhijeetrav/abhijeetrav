@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @abhijeetrav
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 👋 Hi, I'm **CERC**
+* 💻 Software Engineer passionate about **Web Development, AI/ML, and Data Science**
+* 🌱 Currently learning **Advanced Backend Development, Node.js, System Design, DSA, and Machine Learning**
+* 🚀 Building projects in **Web Applications, AI-powered Tools, and Startup Solutions**
+* 🤝 Looking to collaborate on **Open Source Projects, AI Applications, SaaS Products, and Innovative Startups**
+* 🏆 Participating in **Hackathons, Coding Challenges, and Technical Communities**
+* 📚 Exploring **Distributed Systems, Cloud Computing, and Data Engineering**
+* 📫 Reach me via **LinkedIn** and **GitHub Discussions**
+* ⚡ Fun fact: I enjoy turning real-world problems into scalable software solutions and continuously learning new technologies.
 
-<!---
-abhijeetrav/abhijeetrav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
