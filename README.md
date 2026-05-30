@@ -1,4 +1,4 @@
-* 👋 Hi, I'm **CERC**
+* 👋 Hi, I'm Abhijeet.
 * 💻 Software Engineer passionate about **Web Development, AI/ML, and Data Science**
 * 🌱 Currently learning **Advanced Backend Development, Node.js, System Design, DSA, and Machine Learning**
 * 🚀 Building projects in **Web Applications, AI-powered Tools, and Startup Solutions**
